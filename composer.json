@@ -1,0 +1,17 @@
+{
+    "name": "justafish/test-renovate",
+    "autoload": {
+        "psr-4": {
+            "Justafish\\TestRenovate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sally Young",
+            "email": "git@justa.fish"
+        }
+    ],
+    "require": {
+        "drupal/core": "10.1.7"
+    }
+}
